@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="todo_entry_title">TodoEntryTitle</string>
+    <string name="todo_edit">TodoEdit</string>
+    <string name="todo_home">TodoHome</string>
+    <string name="todo_detail">TodoDetail</string>
+</resources>
